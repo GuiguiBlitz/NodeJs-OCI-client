@@ -1,0 +1,7 @@
+[DEFAULT]
+user=
+fingerprint=
+tenancy=
+region=
+key_file=oci_conf/oci_api_key.pem
+customCompartmentId=
